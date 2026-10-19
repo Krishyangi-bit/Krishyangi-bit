@@ -23,13 +23,13 @@
 
 <table width="100%">
   <tr>
-    <td width="70%" valign="top">
+    <td width="50%" height='200' valign="top">
       <h4>🔭 Building</h4>
       <b>NAVRAAH</b>, a wearable assistive-navigation prototype<br/>
       <b>MindSpace</b>, student burnout prediction<br/>
       <b>BugSift</b>, less time chasing bugs
     </td>
-    <td width="70%" valign="top">
+    <td width="50%" height='200' valign="top">
       <h4>🌱 Learning</h4>
       Java, data structures &amp; algorithms, and how to make AI models run on small hardware
     </td>
