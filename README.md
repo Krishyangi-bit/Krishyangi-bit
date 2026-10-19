@@ -121,7 +121,7 @@ flowchart LR
     <td>
       <h3>🐞 BugSift</h3>
       <i>Less time chasing bugs. More time building better software.</i>
-      <br>
+      <br><br>
       <p><img src="https://img.shields.io/badge/Debugging-0F9D78?style=flat-square" alt="Debugging" /> <img src="https://img.shields.io/badge/Developer_Tools-2F7DE1?style=flat-square" alt="Developer Tools" /></p>
       <a href="https://github.com/Krishyangi-bit?tab=repositories"><b>View repository →</b></a>
     </td>
