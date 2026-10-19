@@ -91,6 +91,7 @@ flowchart LR
       <h3>🧭 NAVRAAH</h3>
       <i>Navigation Assistant For Visually Restricted And Aided Humans</i><br/>
       <sub>Technology with a purpose. Independence through innovation.</sub>
+      <br>
       <p><img src="https://img.shields.io/badge/Python-2F7DE1?style=flat-square" alt="Python" /> <img src="https://img.shields.io/badge/YOLOv8-0F9D78?style=flat-square" alt="YOLOv8" /> <img src="https://img.shields.io/badge/ONNX-7C5CFF?style=flat-square" alt="ONNX" /> <img src="https://img.shields.io/badge/OpenCV-E5484D?style=flat-square" alt="OpenCV" /> <img src="https://img.shields.io/badge/Computer_Vision-D6336C?style=flat-square" alt="Computer Vision" /> <img src="https://img.shields.io/badge/Raspberry_Pi-D97706?style=flat-square" alt="Raspberry Pi" /> <img src="https://img.shields.io/badge/Hardware-475569?style=flat-square" alt="Hardware" /> <img src="https://img.shields.io/badge/Ultrasonic_Sensing-2F7DE1?style=flat-square" alt="Ultrasonic Sensing" /> <img src="https://img.shields.io/badge/Haptic_Feedback-0F9D78?style=flat-square" alt="Haptic Feedback" /> <img src="https://img.shields.io/badge/Audio_Output-7C5CFF?style=flat-square" alt="Audio Output" /></p>
       <ul>
         <li>Wearable assistive prototype that applies <b>computer vision</b> (YOLOv8 exported to ONNX, OpenCV) to help visually restricted people understand their surroundings.</li>
@@ -105,6 +106,7 @@ flowchart LR
     <td>
       <h3>🧠 MindSpace</h3>
       <i>Understanding student well-being through data and intelligence</i>
+      <br>
       <p><img src="https://img.shields.io/badge/Python-2F7DE1?style=flat-square" alt="Python" /> <img src="https://img.shields.io/badge/Flask-475569?style=flat-square" alt="Flask" /> <img src="https://img.shields.io/badge/NLP-7C5CFF?style=flat-square" alt="NLP" /> <img src="https://img.shields.io/badge/Sentiment_Analysis-0F9D78?style=flat-square" alt="Sentiment Analysis" /> <img src="https://img.shields.io/badge/Multimodal-D6336C?style=flat-square" alt="Multimodal" /> <img src="https://img.shields.io/badge/Web_Development-D97706?style=flat-square" alt="Web Development" /></p>
       <ul>
         <li>Intelligent <b>multimodal framework</b> that predicts student burnout.</li>
@@ -119,6 +121,7 @@ flowchart LR
     <td>
       <h3>🐞 BugSift</h3>
       <i>Less time chasing bugs. More time building better software.</i>
+      <br>
       <p><img src="https://img.shields.io/badge/Debugging-0F9D78?style=flat-square" alt="Debugging" /> <img src="https://img.shields.io/badge/Developer_Tools-2F7DE1?style=flat-square" alt="Developer Tools" /></p>
       <a href="https://github.com/Krishyangi-bit?tab=repositories"><b>View repository →</b></a>
     </td>
@@ -139,8 +142,6 @@ flowchart LR
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Krishyangi-bit&hide_border=true&background=0B1020&ring=FFB547&fire=E94560&currStreakLabel=FFB547&currStreakNum=E6EDF3&sideNums=E6EDF3&sideLabels=9DA7B3&dates=9DA7B3&border_radius=12" alt="GitHub contribution streak" width="70%" />
 </p>
-
-<p align="center"><sub>Third-party cards may occasionally be unavailable. Language statistics reflect repository code, not personal proficiency.</sub></p>
 
 ---
 
