@@ -1,162 +1,159 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B16,45:24245C,100:00C2FF&height=190&section=header&text=KRISHYANGI&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20%7C%20AI%20%7C%20REAL-WORLD%20PROBLEM%20SOLVING&descAlignY=60&descSize=14&animation=fadeIn" width="100%" alt="Krishyangi — software, AI, and problem solving" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090F,50:312E81,100:00C2FF&height=220&section=header&text=KRISHYANGI&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=ENGINEER%20AT%20HEART%20%7C%20BUILDER%20BY%20CHOICE&descAlignY=58&animation=fadeIn" width="100%" alt="Purple and blue animated profile banner" />
 
 Hey, I'm Krishyangi 👋
 
-Engineer at Heart · Builder by Choice
+Engineer at Heart | Software, AI & Systems That Solve Real Problems
 
-Turning “What if?” into working software.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=700&color=00C2FF&center=true&vCenter=true&width=650&lines=Turning+%22What+If%3F%22+Into+Working+Software.;Exploring+AI%2C+computer+vision%2C+and+systems.;Building+projects+that+solve+real+problems.;Curious+by+default.+Builder+by+choice.;Debugger+by+necessity." alt="Typing animation: developer introduction" />
 
-I’m a B.Tech Computer Science student interested in building useful software at the intersection of software engineering, AI, and thoughtful user experiences. I learn by building, testing ideas, debugging what breaks, and improving what works.
+<p>
+  <em>Curious by default. Builder by choice. Debugger by necessity.</em>
+</p>
 
-
-
-
-
-</div>
-
-About me
-
-🎓 B.Tech in Computer Science — building strong foundations through coursework and hands-on projects.
-
-🧠 Interested in AI, computer vision, data-driven applications, and software that addresses real problems.
-
-🛠️ I enjoy moving from an idea to an implementation, then refining the details that make it more useful.
-
-🎨 I also create animated, interactive web experiences and care about how software feels to use—not only how it works.
-
-🌱 Currently learning Java and continuing to strengthen my software engineering fundamentals.
-
-Curious by default. Builder by choice. Debugger by necessity.
-
-Tech stack
-
-Tools and technologies I’ve worked with or explored. I’m continuing to deepen my skills as I build.
-
-<div align="center">
-
-Languages & web
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222222" alt="JavaScript" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-
-Frameworks, data & design
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-
-Developer tools
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
-<img src="https://img.shields.io/badge/Java-Learning-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java — currently learning" />
+<a href="mailto:dixitkrishyangi@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-00C2FF?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/krishyangi-dixit-9527ba388/"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/Krishyangi-bit"><img src="https://img.shields.io/badge/GitHub-Krishyangi--bit-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" /></a>
 
 </div>
 
-Featured projects
+🧠 About Me
 
-01 · NAVRAAH
+I'm a B.Tech Computer Science student who enjoys turning ideas into working software. I like exploring the space where software engineering, AI, and thoughtful user experiences meet.
+
+🔭 Building projects that connect technology to real-world problems.
+
+🤖 Exploring AI, natural language processing, and computer vision.
+
+🛠️ Learning by building, testing, debugging, and iterating.
+
+🎨 Interested in interactive web experiences and design-led development.
+
+🌱 Currently strengthening my engineering fundamentals and learning Java.
+
+I don't just want to make things that work. I want to understand why they work—and how to make them better.
+
+⚙️ Tech Stack
+
+Languages & Web Fundamentals
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+Frontend & Design
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+</p>
+
+Backend, Data & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
+</p>
+
+Currently Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Java-Learning-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java — learning" />
+</p>
+
+🚀 Featured Projects
+
+🔵 NAVRAAH
 
 Navigation Assistant For Visually Restricted And Aided Humans
 
 Technology with a purpose. Independence through innovation.
 
-An assistive-navigation project exploring how computer vision can help people with visual impairments better understand their surroundings. NAVRAAH is focused on applying technology to a meaningful, real-world accessibility challenge.
+An assistive navigation project focused on applying computer vision to help visually restricted people navigate their surroundings.
 
-<div>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/YOLOv8-111827?style=flat-square" alt="YOLOv8" />
-<img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" alt="ONNX" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
-<img src="https://img.shields.io/badge/Computer%20Vision-7C3AED?style=flat-square" alt="Computer Vision" />
-<img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
-<img src="https://img.shields.io/badge/Hardware-374151?style=flat-square" alt="Hardware" />
-</div>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/YOLOv8-111827?style=flat-square" alt="YOLOv8" />
+  <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" alt="ONNX" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Computer_Vision-7C3AED?style=flat-square" alt="Computer Vision" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
+  <img src="https://img.shields.io/badge/Hardware-374151?style=flat-square" alt="Hardware" />
+</p>
 
-What makes it meaningful: It applies technical problem-solving to accessibility, where usability and real-world constraints matter alongside the model or code.
+Explore NAVRAAH →
 
-
-
-02 · MindSpace
-
-An Intelligent Multi-Modal Framework for Predicting Student Burnout via Temporal Chat Sentiment and Behavioral Pattern Analysis
+🟣 MindSpace
 
 Understanding student well-being through data and intelligence.
 
-MindSpace explores student-burnout prediction using temporal chat sentiment and behavioral-pattern analysis. The project brings together an application layer and data-driven analysis to investigate patterns related to student well-being.
+An intelligent multimodal framework for predicting student burnout through temporal chat sentiment and behavioral pattern analysis.
 
-<div>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-<img src="https://img.shields.io/badge/NLP-8B5CF6?style=flat-square" alt="Natural Language Processing" />
-<img src="https://img.shields.io/badge/Web%20Application-2563EB?style=flat-square" alt="Web application" />
-</div>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/NLP-8B5CF6?style=flat-square" alt="Natural Language Processing" />
+  <img src="https://img.shields.io/badge/Web_Development-2563EB?style=flat-square" alt="Web Development" />
+</p>
 
-What makes it meaningful: It explores how behavioral signals and language patterns can be considered together rather than treating each data point in isolation.
+Explore MindSpace →
 
-
-
-03 · BugSift
+🟢 BugSift
 
 Less time chasing bugs. More time building better software.
 
-BugSift is another project in my portfolio. The repository is the source of truth for its current implementation, features, and technology stack; I’ve kept this summary intentionally high-level rather than claiming details that aren’t documented here.
+A project in the portfolio. See the repository for its implementation and current details.
 
+Explore BugSift →
 
-
-GitHub activity
+📊 GitHub Activity
 
 <div align="center">
 
-<a href="https://github.com/Krishyangi-bit">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Krishyangi-bit&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=BC8CFF&text_color=E6EDF3&rank_icon=github" alt="GitHub statistics" />
-</a>
-<a href="https://github.com/Krishyangi-bit">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishyangi-bit&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=E6EDF3" alt="Languages detected in public repositories" />
-</a>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Krishyangi-bit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=8B5CF6&text_color=E6EDF3" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishyangi-bit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=E6EDF3" alt="Most-used repository languages" />
 
-<br />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishyangi-bit&theme=tokyonight&hide_border=true&background=0D1117&ring=00C2FF&fire=8B5CF6&currStreakLabel=00C2FF" alt="GitHub contribution streak" width="70%" />
 
-<img src="https://streak-stats.demolab.com?user=Krishyangi-bit&hide_border=true&background=0D1117&ring=58A6FF&fire=BC8CFF&currStreakLabel=58A6FF&sideLabels=E6EDF3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak" />
-
-<br />
-
-<img src="https://komarev.com/ghpvc/?username=Krishyangi-bit&style=flat-square&color=6C63FF&label=PROFILE%20VIEWS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Krishyangi-bit&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
-What I’m working toward
+<sub>These cards use third-party services and may occasionally be unavailable. Language statistics reflect repository code, not personal proficiency.</sub>
 
-Engineering depth: stronger programming, debugging, and software design fundamentals.
+🎯 What I'm Working Toward
 
-Useful AI: building applications that use AI and data for practical problems.
+Building stronger foundations in software engineering and computer science.
 
-Better delivery: writing clearer documentation and making projects easier to understand, run, and evaluate.
+Creating practical AI-powered applications and thoughtful user experiences.
 
-Thoughtful experiences: combining technical functionality with intentional interface and interaction design.
+Improving how I design, document, test, and explain the systems I build.
 
-Let’s connect
+Growing a portfolio that demonstrates curiosity, technical depth, and real-world problem-solving.
 
-I’m happy to connect with developers, builders, and people working on interesting technical problems.
+🤝 Let's Connect
+
+I'm always happy to connect with people who enjoy building, learning, and solving interesting problems.
+
+<p align="center">
+  <a href="mailto:dixitkrishyangi@gmail.com"><img src="https://img.shields.io/badge/Email-dixitkrishyangi%40gmail.com-00C2FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Krishyangi" /></a>
+  <a href="https://www.linkedin.com/in/krishyangi-dixit-9527ba388/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+</p>
 
 <div align="center">
 
-
-
-
-<br />
-
 Curious by default. Builder by choice. Debugger by necessity.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:24245C,100:080B16&height=100&section=footer" width="100%" alt="Blue and violet footer banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:312E81,100:09090F&height=100&section=footer" width="100%" alt="Blue and purple footer banner" />
 
 </div>
