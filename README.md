@@ -1,68 +1,59 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020805,45:063D24,100:00FF88&height=190&section=header&text=KRISHYANGI&fontSize=52&fontColor=7CFFB2&fontAlignY=38&desc=ENGINEER%20AT%20HEART%20%7C%20BUILDER%20BY%20CHOICE&descAlignY=60&descSize=14&animation=twinkling" width="100%" alt="Animated green terminal-inspired banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:C2185B,100:F59E0B&height=210&section=header&text=KRISHYANGI&fontSize=54&fontColor=FFFFFF&fontAlignY=40&desc=ENGINEER%20AT%20HEART%20%7C%20BUILDER%20BY%20CHOICE&descSize=16&descAlignY=60&animation=twinkling" width="100%" alt="Animated banner: Krishyangi, engineer at heart, builder by choice" />
 
-<code>root@krishyangi:~$ whoami</code>
+<h1>Hey, I'm Krishyangi 👋</h1>
 
-Hey, I'm Krishyangi 👋
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2800&pause=700&color=39FF88&center=true&vCenter=true&width=760&height=36&lines=Turning+%22What+if%3F%22+into+working+software.;Teaching+machines+to+see+%E2%80%94+and+to+help.;Software+%2B+AI+%2B+hardware%2C+one+commit+at+a+time.;Curious+by+default.+Debugger+by+necessity." alt="Animated terminal-style introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=800&color=FFB547&center=true&vCenter=true&width=700&height=36&lines=Turning+%22What+if%3F%22+into+working+software.;Teaching+machines+to+see+%E2%80%94+and+to+help.;Software+%2B+AI+%2B+hardware%2C+one+commit+at+a+time.;Debugger+by+necessity." alt="Typing animation: Turning What if into working software. Teaching machines to see and to help." />
 
 <p>
-<img src="https://img.shields.io/github/followers/Krishyangi-bit?style=for-the-badge&label=FOLLOWERS&labelColor=07140D&color=00C853" alt="GitHub followers" />
-<a href="mailto:dixitkrishyangi@gmail.com"><img src="https://img.shields.io/badge/EMAIL-00C853?style=for-the-badge&logo=gmail&logoColor=07140D" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/krishyangi-dixit-9527ba388/"><img src="https://img.shields.io/badge/LINKEDIN-00C853?style=for-the-badge&logo=linkedin&logoColor=07140D" alt="LinkedIn" /></a>
-<a href="https://github.com/Krishyangi-bit"><img src="https://img.shields.io/badge/GITHUB-00C853?style=for-the-badge&logo=github&logoColor=07140D" alt="GitHub" /></a>
+  <img src="https://img.shields.io/github/followers/Krishyangi-bit?style=for-the-badge&label=FOLLOWERS&labelColor=1E293B&color=C2185B" alt="GitHub followers" />
+  <a href="mailto:dixitkrishyangi@gmail.com"><img src="https://img.shields.io/badge/Email-E5484D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Krishyangi" /></a>
+  <a href="https://www.linkedin.com/in/krishyangi-dixit-9527ba388/"><img src="https://img.shields.io/badge/LinkedIn-2F7DE1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/Krishyangi-bit"><img src="https://img.shields.io/badge/GitHub-475569?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-<code>Curious by default. Builder by choice. Debugger by necessity.</code>
+<i>"Curious by default. Builder by choice. Debugger by necessity."</i>
 
 </div>
 
-<code>[01] ./about-me.sh</code>
+---
 
-┌─ ABOUT KRISHYANGI ─────────────────────────────────────────────┐
-│  🎓  B.Tech Computer Science student                           │
-│  🧠  Interested in AI, computer vision, data, and useful tools │
-│  🛠️  Learn by building, testing, debugging, and iterating      │
-│  🎨  Create animated, interactive web experiences              │
-│  🌱  Currently learning Java, DSA, and practical AI deployment │
-└────────────────────────────────────────────────────────────────┘
-
-I’m interested in building useful software at the intersection of software engineering, AI, and thoughtful user experiences. I like taking an idea from “what if?” to a working prototype, then improving the details that make it more useful in the real world.
-
-<code>[02] ./status --now</code>
+<h2 align="center">Right Now</h2>
 
 <table width="100%">
-<tr>
-<td width="50%" valign="top">
-<h3><code>▶ BUILDING</code></h3>
-<b>NAVRAAH</b><br/>A wearable assistive-navigation prototype<br/><br/>
-<b>MindSpace</b><br/>Student burnout prediction<br/><br/>
-<b>BugSift</b><br/>Less time chasing bugs
-</td>
-<td width="50%" valign="top">
-<h3><code>▶ LEARNING</code></h3>
-Java, data structures &amp; algorithms, and how to make AI models run on small hardware.
-</td>
-</tr>
-<tr>
-<td valign="top">
-<h3><code>▶ OPEN TO</code></h3>
-Internships, collaborations, and interesting problems worth losing sleep over.
-</td>
-<td valign="top">
-<h3><code>▶ ASK ME ABOUT</code></h3>
-Building projects, AI ideas, web experiences, and the lessons hidden inside debugging.
-</td>
-</tr>
+  <tr>
+    <td width="50%" height='200' valign="top">
+      <h4>🔭 Building</h4>
+      <b>NAVRAAH</b>: a wearable assistive-navigation prototype<br/>
+      <b>MindSpace</b>: student burnout prediction<br/>
+      <b>BugSift</b>: less time chasing bugs
+    </td>
+    <td width="50%" height='200' valign="top">
+      <h4>🌱 Learning</h4>
+      Java, data structures &amp; algorithms, and how to make AI models run on small hardware
+    </td>
+  </tr>
+  <tr>
+    <td height = '100' valign="top">
+      <h4>🤝 Looking for</h4>
+      Internships, collaborations, and interesting problems worth losing sleep over
+    </td>
+    <td height = '100' valign="top">
+      <h4>💬 Ask me about</h4>
+      ANYTHING 
+    </td>
+  </tr>
 </table>
 
-⚡ Hardware lesson learned the hands-on way: one missing voltage divider can fry a Raspberry Pi. Now it’s one of the first things I check.
+<p style = 'height:200px;' align="center"><sub>⚡ Fun fact: my first hardware build taught me that one missing voltage divider can fry a Raspberry Pi. Now it's the first thing I check.</sub></p>
 
 <details>
-<summary><b><code>cat build-process.md</code> — How I build things</b></summary>
+<summary><b>🔁 How I build things (click to expand)</b></summary>
 
+<br/>
+
+```mermaid
 flowchart LR
   A([💡 What if?]) --> B[🧪 Prototype]
   B --> C[💥 Break it]
@@ -70,156 +61,112 @@ flowchart LR
   D --> E[🚀 Ship]
   E --> F[📝 Document]
   F --> A
-  style A fill:#063D24,stroke:#39FF88,color:#fff
-  style C fill:#173B28,stroke:#00C853,color:#fff
-  style E fill:#005B35,stroke:#39FF88,color:#fff
+  style A fill:#7C5CFF,stroke:#FFB547,color:#fff
+  style C fill:#E5484D,stroke:#FFB547,color:#fff
+  style E fill:#0F9D78,stroke:#FFB547,color:#fff
+```
 
 </details>
 
-<code>[03] ./tech-stack --list</code>
+---
 
-Technologies I’ve worked with or explored. I’m continuing to deepen my skills as I build.
+<h2 align="center">Tech Stack</h2>
 
 <table align="center">
-<tr><td align="right" valign="middle"><b>💻 Languages</b></td><td>
-<img src="https://img.shields.io/badge/Python-07140D?style=for-the-badge&logo=python&logoColor=39FF88" alt="Python" />
-<img src="https://img.shields.io/badge/JavaScript-07140D?style=for-the-badge&logo=javascript&logoColor=39FF88" alt="JavaScript" />
-<img src="https://img.shields.io/badge/SQL-07140D?style=for-the-badge&logo=mysql&logoColor=39FF88" alt="SQL" />
-<img src="https://img.shields.io/badge/HTML5-07140D?style=for-the-badge&logo=html5&logoColor=39FF88" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-07140D?style=for-the-badge&logo=css3&logoColor=39FF88" alt="CSS3" />
-</td></tr>
-<tr><td align="right" valign="middle"><b>🌐 Frontend &amp; Design</b></td><td>
-<img src="https://img.shields.io/badge/React-07140D?style=for-the-badge&logo=react&logoColor=39FF88" alt="React" />
-<img src="https://img.shields.io/badge/Figma-07140D?style=for-the-badge&logo=figma&logoColor=39FF88" alt="Figma" />
-</td></tr>
-<tr><td align="right" valign="middle"><b>⚙️ Backend</b></td><td>
-<img src="https://img.shields.io/badge/Node.js-07140D?style=for-the-badge&logo=nodedotjs&logoColor=39FF88" alt="Node.js" />
-<img src="https://img.shields.io/badge/Flask-07140D?style=for-the-badge&logo=flask&logoColor=39FF88" alt="Flask" />
-</td></tr>
-<tr><td align="right" valign="middle"><b>📊 Data &amp; Vision</b></td><td>
-<img src="https://img.shields.io/badge/NumPy-07140D?style=for-the-badge&logo=numpy&logoColor=39FF88" alt="NumPy" />
-<img src="https://img.shields.io/badge/Pandas-07140D?style=for-the-badge&logo=pandas&logoColor=39FF88" alt="Pandas" />
-<img src="https://img.shields.io/badge/OpenCV-07140D?style=for-the-badge&logo=opencv&logoColor=39FF88" alt="OpenCV" />
-</td></tr>
-<tr><td align="right" valign="middle"><b>🧰 Tools &amp; Hardware</b></td><td>
-<img src="https://img.shields.io/badge/Git-07140D?style=for-the-badge&logo=git&logoColor=39FF88" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-07140D?style=for-the-badge&logo=github&logoColor=39FF88" alt="GitHub" />
-<img src="https://img.shields.io/badge/Vercel-07140D?style=for-the-badge&logo=vercel&logoColor=39FF88" alt="Vercel" />
-<img src="https://img.shields.io/badge/PowerShell-07140D?style=for-the-badge&logo=powershell&logoColor=39FF88" alt="PowerShell" />
-<img src="https://img.shields.io/badge/Raspberry_Pi-07140D?style=for-the-badge&logo=raspberrypi&logoColor=39FF88" alt="Raspberry Pi" />
-</td></tr>
-<tr><td align="right" valign="middle"><b>🌱 Learning</b></td><td>
-<img src="https://img.shields.io/badge/Java-07140D?style=for-the-badge&logo=openjdk&logoColor=39FF88" alt="Java — learning" />
-<img src="https://img.shields.io/badge/DSA-07140D?style=for-the-badge&logo=thealgorithms&logoColor=39FF88" alt="DSA — learning" />
-</td></tr>
+  <tr><td align="right" valign="middle"><b>💻 Languages</b></td><td><img src="https://img.shields.io/badge/Python-1E293B?style=for-the-badge&logo=python&logoColor=FFB547" alt="Python" /> <img src="https://img.shields.io/badge/JavaScript-1E293B?style=for-the-badge&logo=javascript&logoColor=FFB547" alt="JavaScript" /> <img src="https://img.shields.io/badge/SQL-1E293B?style=for-the-badge&logo=mysql&logoColor=FFB547" alt="SQL" /> <img src="https://img.shields.io/badge/HTML5-1E293B?style=for-the-badge&logo=html5&logoColor=FFB547" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1E293B?style=for-the-badge&logo=css3&logoColor=FFB547" alt="CSS3" /></td></tr>
+  <tr><td align="right" valign="middle"><b>🌐 Frontend</b></td><td><img src="https://img.shields.io/badge/React-1E293B?style=for-the-badge&logo=react&logoColor=FF6B6B" alt="React" /> <img src="https://img.shields.io/badge/Figma-1E293B?style=for-the-badge&logo=figma&logoColor=FF6B6B" alt="Figma" /></td></tr>
+  <tr><td align="right" valign="middle"><b>⚙️ Backend</b></td><td><img src="https://img.shields.io/badge/Node.js-1E293B?style=for-the-badge&logo=nodedotjs&logoColor=3DDBB0" alt="Node.js" /> <img src="https://img.shields.io/badge/Flask-1E293B?style=for-the-badge&logo=flask&logoColor=3DDBB0" alt="Flask" /></td></tr>
+  <tr><td align="right" valign="middle"><b>📊 Data &amp; Vision</b></td><td><img src="https://img.shields.io/badge/NumPy-1E293B?style=for-the-badge&logo=numpy&logoColor=B794F6" alt="NumPy" /> <img src="https://img.shields.io/badge/Pandas-1E293B?style=for-the-badge&logo=pandas&logoColor=B794F6" alt="Pandas" /> <img src="https://img.shields.io/badge/OpenCV-1E293B?style=for-the-badge&logo=opencv&logoColor=B794F6" alt="OpenCV" /></td></tr>
+  <tr><td align="right" valign="middle"><b>🧰 Tools &amp; Hardware</b></td><td><img src="https://img.shields.io/badge/Git-1E293B?style=for-the-badge&logo=git&logoColor=5AA9FF" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=5AA9FF" alt="GitHub" /> <img src="https://img.shields.io/badge/Vercel-1E293B?style=for-the-badge&logo=vercel&logoColor=5AA9FF" alt="Vercel" /> <img src="https://img.shields.io/badge/PowerShell-1E293B?style=for-the-badge&logo=powershell&logoColor=5AA9FF" alt="PowerShell" /> <img src="https://img.shields.io/badge/Raspberry_Pi-1E293B?style=for-the-badge&logo=raspberrypi&logoColor=5AA9FF" alt="Raspberry Pi" /></td></tr>
+  <tr><td align="right" valign="middle"><b>🌱 Learning</b></td><td><img src="https://img.shields.io/badge/Java-1E293B?style=for-the-badge&logo=openjdk&logoColor=FFB547" alt="Java" /> <img src="https://img.shields.io/badge/DSA-1E293B?style=for-the-badge" alt="DSA" /></td></tr>
 </table>
 
-<code>./particles --float --tech</code> · Floating tech constellation
+---
 
-Animated SVG asset: keep tech-particles.svg in the same folder as this README. The graphic is designed as a green terminal-style constellation with floating technology nodes and pulsing particles.
+<h2 align="center">Featured Projects</h2>
 
-<div align="center">
-<img src="./tech-particles.svg" width="100%" alt="Animated green floating technology particles: Python, JavaScript, React, Node.js, SQL, Git, AI, and computer vision" />
-</div>
+<table width="100%">
+  <tr>
+    <td>
+      <h3>🧭 NAVRAAH</h3>
+      <i>Navigation Assistant For Visually Restricted And Aided Humans</i><br/>
+      <sub>Technology with a purpose. Independence through innovation.</sub>
+      <br><br>
+      <p><img src="https://img.shields.io/badge/Python-2F7DE1?style=flat-square" alt="Python" /> <img src="https://img.shields.io/badge/YOLOv8-0F9D78?style=flat-square" alt="YOLOv8" /> <img src="https://img.shields.io/badge/ONNX-7C5CFF?style=flat-square" alt="ONNX" /> <img src="https://img.shields.io/badge/OpenCV-E5484D?style=flat-square" alt="OpenCV" /> <img src="https://img.shields.io/badge/Computer_Vision-D6336C?style=flat-square" alt="Computer Vision" /> <img src="https://img.shields.io/badge/Raspberry_Pi-D97706?style=flat-square" alt="Raspberry Pi" /> <img src="https://img.shields.io/badge/Hardware-475569?style=flat-square" alt="Hardware" /> <img src="https://img.shields.io/badge/Ultrasonic_Sensing-2F7DE1?style=flat-square" alt="Ultrasonic Sensing" /> <img src="https://img.shields.io/badge/Haptic_Feedback-0F9D78?style=flat-square" alt="Haptic Feedback" /> <img src="https://img.shields.io/badge/Audio_Output-7C5CFF?style=flat-square" alt="Audio Output" /></p>
+      <ul>
+        <li>Wearable assistive prototype that applies <b>computer vision</b> (YOLOv8 exported to ONNX, OpenCV) to help visually restricted people understand their surroundings.</li>
+        <li>Measures obstacle distance with an <b>HC-SR04 ultrasonic sensor</b> on the Raspberry Pi's GPIO, using a voltage divider to protect the 3.3V pins.</li>
+        <li>Alerts the user through <b>haptic feedback</b> (transistor-driven vibration motor) and <b>audio output</b> (speaker with an amplifier).</li>
+        <li>Battery-powered and packed into a compact enclosure with only the camera exposed.</li>
+      </ul>
+      <a href="https://github.com/Krishyangi-bit?tab=repositories"><b>View repository →</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>🧠 MindSpace</h3>
+      <i>Understanding student well-being through data and intelligence</i>
+      <br><br>
+      <p><img src="https://img.shields.io/badge/Python-2F7DE1?style=flat-square" alt="Python" /> <img src="https://img.shields.io/badge/Flask-475569?style=flat-square" alt="Flask" /> <img src="https://img.shields.io/badge/NLP-7C5CFF?style=flat-square" alt="NLP" /> <img src="https://img.shields.io/badge/Sentiment_Analysis-0F9D78?style=flat-square" alt="Sentiment Analysis" /> <img src="https://img.shields.io/badge/Multimodal-D6336C?style=flat-square" alt="Multimodal" /> <img src="https://img.shields.io/badge/Web_Development-D97706?style=flat-square" alt="Web Development" /></p>
+      <ul>
+        <li>Intelligent <b>multimodal framework</b> that predicts student burnout.</li>
+        <li>Reads <b>temporal chat sentiment</b>, so it tracks how mood changes over time, not just a single snapshot.</li>
+        <li>Combines sentiment with <b>behavioral pattern analysis</b> for a fuller picture of well-being.</li>
+        <li>Built as a Python and Flask web application.</li>
+      </ul>
+      <a href="https://github.com/Krishyangi-bit?tab=repositories"><b>View repository →</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>🐞 BugSift</h3>
+      <i>Less time chasing bugs. More time building better software.</i>
+      <br><br>
+      <p><img src="https://img.shields.io/badge/Debugging-0F9D78?style=flat-square" alt="Debugging" /> <img src="https://img.shields.io/badge/Developer_Tools-2F7DE1?style=flat-square" alt="Developer Tools" /></p>
+      <a href="https://github.com/Krishyangi-bit?tab=repositories"><b>View repository →</b></a>
+    </td>
+  </tr>
+</table>
 
-<code>[04] ./projects --featured</code>
+---
 
-<code>01 // NAVRAAH</code> 🧭
+<h2 align="center">GitHub Presence</h2>
 
-Navigation Assistant For Visually Restricted And Aided Humans
+<table align="center">
+  <tr>
+    <td align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=Krishyangi-bit&show_icons=true&hide_border=true&bg_color=0B1020&title_color=FFB547&icon_color=E94560&text_color=E6EDF3&border_radius=12" alt="GitHub statistics" /></td>
+    <td align="center"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishyangi-bit&layout=compact&hide_border=true&bg_color=0B1020&title_color=FFB547&text_color=E6EDF3&border_radius=12" alt="Most-used repository languages" /></td>
+  </tr>
+</table>
 
-Technology with a purpose. Independence through innovation.
-
-A wearable assistive-navigation prototype that applies computer vision and sensing to help visually restricted people better understand their surroundings.
-
-<p>
-<img src="https://img.shields.io/badge/Python-07140D?style=flat-square&logo=python&logoColor=39FF88" alt="Python" />
-<img src="https://img.shields.io/badge/YOLOv8-07140D?style=flat-square&logoColor=39FF88" alt="YOLOv8" />
-<img src="https://img.shields.io/badge/ONNX-07140D?style=flat-square&logo=onnx&logoColor=39FF88" alt="ONNX" />
-<img src="https://img.shields.io/badge/OpenCV-07140D?style=flat-square&logo=opencv&logoColor=39FF88" alt="OpenCV" />
-<img src="https://img.shields.io/badge/Computer_Vision-07140D?style=flat-square&logoColor=39FF88" alt="Computer Vision" />
-<img src="https://img.shields.io/badge/Raspberry_Pi-07140D?style=flat-square&logo=raspberrypi&logoColor=39FF88" alt="Raspberry Pi" />
-<img src="https://img.shields.io/badge/Hardware-07140D?style=flat-square&logoColor=39FF88" alt="Hardware" />
-<img src="https://img.shields.io/badge/Ultrasonic_Sensing-07140D?style=flat-square&logoColor=39FF88" alt="Ultrasonic sensing" />
-<img src="https://img.shields.io/badge/Haptic_Feedback-07140D?style=flat-square&logoColor=39FF88" alt="Haptic feedback" />
-<img src="https://img.shields.io/badge/Audio_Output-07140D?style=flat-square&logoColor=39FF88" alt="Audio output" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Krishyangi-bit&hide_border=true&background=0B1020&ring=FFB547&fire=E94560&currStreakLabel=FFB547&currStreakNum=E6EDF3&sideNums=E6EDF3&sideLabels=9DA7B3&dates=9DA7B3&border_radius=12" alt="GitHub contribution streak" width="70%" />
 </p>
 
-Uses YOLOv8, exported to ONNX, with OpenCV for computer-vision processing.
+---
 
-Measures obstacle distance with an HC-SR04 ultrasonic sensor connected to Raspberry Pi GPIO; a voltage divider protects the 3.3V pins.
+<h2 align="center">Where This Is Going</h2>
 
-Alerts the user using haptic feedback from a transistor-driven vibration motor and audio output through a speaker and amplifier.
+- 🧱 Stronger foundations in software engineering and computer science
+- ⚡ Practical AI-powered applications with thoughtful design
+- 📐 Better design, documentation, testing, and explanation of everything I build
+- 🌍 A portfolio that shows curiosity, technical depth, and real-world problem-solving
 
-Designed as a battery-powered wearable prototype in a compact enclosure, with only the camera exposed.
+---
 
+<div align="center">
 
+<h2>Let's Connect</h2>
 
-<code>02 // MindSpace</code> 🧠
-
-An Intelligent Multi-Modal Framework for Predicting Student Burnout via Temporal Chat Sentiment and Behavioral Pattern Analysis
-
-Understanding student well-being through data and intelligence.
-
-An intelligent multimodal framework that explores student burnout prediction by combining temporal chat sentiment and behavioral-pattern analysis in a Python and Flask web application.
+Always happy to connect with people who enjoy building, learning, and solving interesting problems.
 
 <p>
-<img src="https://img.shields.io/badge/Python-07140D?style=flat-square&logo=python&logoColor=39FF88" alt="Python" />
-<img src="https://img.shields.io/badge/Flask-07140D?style=flat-square&logo=flask&logoColor=39FF88" alt="Flask" />
-<img src="https://img.shields.io/badge/NLP-07140D?style=flat-square&logoColor=39FF88" alt="NLP" />
-<img src="https://img.shields.io/badge/Sentiment_Analysis-07140D?style=flat-square&logoColor=39FF88" alt="Sentiment analysis" />
-<img src="https://img.shields.io/badge/Multimodal-07140D?style=flat-square&logoColor=39FF88" alt="Multimodal analysis" />
-<img src="https://img.shields.io/badge/Web_Development-07140D?style=flat-square&logoColor=39FF88" alt="Web development" />
+  <a href="mailto:dixitkrishyangi@gmail.com"><img src="https://img.shields.io/badge/Email-dixitkrishyangi%40gmail.com-E5484D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Krishyangi" /></a>
+  <a href="https://www.linkedin.com/in/krishyangi-dixit-9527ba388/"><img src="https://img.shields.io/badge/LinkedIn-Connect-2F7DE1?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
 </p>
 
-Predicts student burnout through a multimodal framework.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=3DDBB0&center=true&vCenter=true&width=600&height=30&lines=Thanks+for+stopping+by.+Go+build+something.;It+works+on+my+machine.+%F0%9F%98%84" alt="Typing animation: Thanks for stopping by. Go build something." />
 
-Uses temporal chat sentiment to consider how sentiment changes over time rather than relying on a single snapshot.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,50:C2185B,100:0B1020&height=90&section=footer" width="100%" alt="Sunset-gradient footer banner" />
 
-Combines sentiment signals with behavioral-pattern analysis to explore a broader picture of student well-being.
-
-Provides a web application built with Python and Flask.
-
-
-
-<code>03 // BugSift</code> 🐞
-
-Less time chasing bugs. More time building better software.
-
-BugSift is part of my project portfolio. Visit the repository for the implementation, current features, and technology details.
-
-
-
-<code>[05] ./github-status --live</code>
-
-<div align="center">
-<a href="https://github.com/Krishyangi-bit"><img height="165" src="https://github-readme-stats.vercel.app/api?username=Krishyangi-bit&show_icons=true&hide_border=true&bg_color=020805&title_color=39FF88&icon_color=00C853&text_color=C9F7D8&rank_icon=github" alt="GitHub statistics" /></a>
-<a href="https://github.com/Krishyangi-bit"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishyangi-bit&layout=compact&hide_border=true&bg_color=020805&title_color=39FF88&text_color=C9F7D8" alt="Most-used repository languages" /></a>
-<br/>
-<img src="https://streak-stats.demolab.com?user=Krishyangi-bit&hide_border=true&background=020805&ring=39FF88&fire=00C853&currStreakLabel=39FF88&sideLabels=C9F7D8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=70A889" alt="GitHub contribution streak" />
-<br/>
-<img src="https://raw.githubusercontent.com/Krishyangi-bit/Krishyangi-bit/output/github-snake-dark.svg" alt="Animated GitHub contribution snake" width="100%" />
-<br/>
-<img src="https://komarev.com/ghpvc/?username=Krishyangi-bit&style=flat-square&color=00C853&label=PROFILE%20VIEWS" alt="Profile views" />
-</div>
-
-<code>[06] ./roadmap --next</code>
-
-🧱 Strengthen foundations in software engineering and computer science.
-
-⚡ Build practical AI-powered applications with thoughtful design.
-
-📐 Improve design, documentation, testing, and explanation of everything I build.
-
-🌍 Grow a portfolio that shows curiosity, technical depth, and real-world problem-solving.
-
-<code>[07] ./connect --open</code>
-
-I’m happy to connect with people who enjoy building, learning, and solving interesting problems.
-
-<div align="center">
-<a href="mailto:dixitkrishyangi@gmail.com"><img src="https://img.shields.io/badge/EMAIL-dixitkrishyangi%40gmail.com-00C853?style=for-the-badge&logo=gmail&logoColor=07140D" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/krishyangi-dixit-9527ba388/"><img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-00C853?style=for-the-badge&logo=linkedin&logoColor=07140D" alt="LinkedIn" /></a>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=39FF88&center=true&vCenter=true&width=650&height=30&lines=Thanks+for+stopping+by.+Go+build+something.;It+works+on+my+machine.+%F0%9F%98%84" alt="Animated green terminal sign-off" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,50:063D24,100:020805&height=95&section=footer" width="100%" alt="Green animated footer banner" />
 </div>
