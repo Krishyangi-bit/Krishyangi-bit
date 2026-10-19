@@ -35,11 +35,11 @@
     </td>
   </tr>
   <tr>
-    <td height = '80' valign="top">
+    <td height = '100' valign="top">
       <h4>🤝 Looking for</h4>
       Internships, collaborations, and interesting problems worth losing sleep over
     </td>
-    <td height = '80' valign="top">
+    <td height = '100' valign="top">
       <h4>💬 Ask me about</h4>
       ANYTHING 
     </td>
@@ -91,7 +91,7 @@ flowchart LR
       <h3>🧭 NAVRAAH</h3>
       <i>Navigation Assistant For Visually Restricted And Aided Humans</i><br/>
       <sub>Technology with a purpose. Independence through innovation.</sub>
-      <br><br><br>
+      <br><br>
       <p><img src="https://img.shields.io/badge/Python-2F7DE1?style=flat-square" alt="Python" /> <img src="https://img.shields.io/badge/YOLOv8-0F9D78?style=flat-square" alt="YOLOv8" /> <img src="https://img.shields.io/badge/ONNX-7C5CFF?style=flat-square" alt="ONNX" /> <img src="https://img.shields.io/badge/OpenCV-E5484D?style=flat-square" alt="OpenCV" /> <img src="https://img.shields.io/badge/Computer_Vision-D6336C?style=flat-square" alt="Computer Vision" /> <img src="https://img.shields.io/badge/Raspberry_Pi-D97706?style=flat-square" alt="Raspberry Pi" /> <img src="https://img.shields.io/badge/Hardware-475569?style=flat-square" alt="Hardware" /> <img src="https://img.shields.io/badge/Ultrasonic_Sensing-2F7DE1?style=flat-square" alt="Ultrasonic Sensing" /> <img src="https://img.shields.io/badge/Haptic_Feedback-0F9D78?style=flat-square" alt="Haptic Feedback" /> <img src="https://img.shields.io/badge/Audio_Output-7C5CFF?style=flat-square" alt="Audio Output" /></p>
       <ul>
         <li>Wearable assistive prototype that applies <b>computer vision</b> (YOLOv8 exported to ONNX, OpenCV) to help visually restricted people understand their surroundings.</li>
@@ -106,7 +106,7 @@ flowchart LR
     <td>
       <h3>🧠 MindSpace</h3>
       <i>Understanding student well-being through data and intelligence</i>
-      <br><br><br>
+      <br><br>
       <p><img src="https://img.shields.io/badge/Python-2F7DE1?style=flat-square" alt="Python" /> <img src="https://img.shields.io/badge/Flask-475569?style=flat-square" alt="Flask" /> <img src="https://img.shields.io/badge/NLP-7C5CFF?style=flat-square" alt="NLP" /> <img src="https://img.shields.io/badge/Sentiment_Analysis-0F9D78?style=flat-square" alt="Sentiment Analysis" /> <img src="https://img.shields.io/badge/Multimodal-D6336C?style=flat-square" alt="Multimodal" /> <img src="https://img.shields.io/badge/Web_Development-D97706?style=flat-square" alt="Web Development" /></p>
       <ul>
         <li>Intelligent <b>multimodal framework</b> that predicts student burnout.</li>
