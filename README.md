@@ -10,137 +10,169 @@
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Krishyangi-bit)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge\&logo=linkedin\&logoColor=00BFFF)](https://www.linkedin.com/in/krishyangi-dixit-9527ba388/)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge\&logo=gmail\&logoColor=8B5CF6)](mailto:dixitkrishyangi@gmail.com)
+<a href="https://github.com/Krishyangi-bit">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/krishyangi-dixit-9527ba388/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:dixitkrishyangi@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 </div>
 
 ---
 
-## `whoami` 👩‍💻
+## 👩‍💻 About Me
 
-I'm a Computer Science student interested in building software that solves meaningful problems.
+I'm a Computer Science student who enjoys turning ideas into working software and exploring how technology can solve real-world problems.
 
-I enjoy working at the intersection of **software engineering, artificial intelligence, data, and design**. From experimenting with intelligent systems to exploring hardware-based solutions, I like taking an idea beyond the whiteboard and turning it into something tangible.
+My interests sit at the intersection of **software engineering, artificial intelligence, data, and design**. I enjoy experimenting with intelligent systems, building practical applications, and exploring the space where thoughtful engineering meets creative problem-solving.
 
-I believe good engineering is more than making something work. It's understanding the problem, making thoughtful technical decisions, and building solutions that people can actually use.
+I believe good engineering is about more than making something work. It's about understanding the problem, making thoughtful technical decisions, and creating something useful.
 
 I'm also the kind of developer who reads the error message, argues with it, questions a few life choices, and eventually fixes it. 😅
 
-* 🔭 **Building:** Projects that connect technology with real-world needs.
-* 🤖 **Exploring:** AI/ML, intelligent systems, and data-driven problem-solving.
-* 🛠️ **Interested in:** Software development, system design, and practical engineering.
-* 🎨 **Also enjoy:** Design-first interfaces and immersive web experiences.
-* 📚 **Currently learning:** Java and strengthening my core programming skills.
-* 🎯 **Long-term goal:** Build reliable, useful technology and grow into an engineer who can take ideas from concept to implementation.
+- 🔭 **Building:** Projects that connect technology with real-world needs.
+- 🤖 **Exploring:** AI/ML, computer vision, and intelligent systems.
+- 💻 **Interested in:** Software development, data-driven applications, and practical engineering.
+- 🎨 **Creating:** Design-focused interfaces and immersive web experiences.
+- 📚 **Currently learning:** Java and strengthening my programming fundamentals.
+- 🎯 **Goal:** Become an engineer who can take ideas from concept to implementation.
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Tech Stack & Skills
 
-The best way to understand an engineer is to look at what they build.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ♿ NAVRAAH
-
-**Navigation Assistant For Visually Restricted And Aided Humans**
-
-An assistive-navigation prototype exploring how hardware and software can work together to support people with visual impairments.
-
-**Engineering focus**
-
-* Raspberry Pi-based prototyping
-* Sensor-based distance awareness
-* Audio and haptic feedback concepts
-* Assistive technology
-
-[**Explore Repository →**](https://github.com/Krishyangi-bit/N.A.V.R.A.A.H)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 MindSpace
-
-**Intelligent Student Burnout Analytics**
-
-A student-focused analytics project exploring burnout prediction through temporal chat sentiment and behavioral pattern analysis.
-
-**Engineering focus**
-
-* AI/ML and predictive analytics
-* Sentiment analysis and NLP
-* Behavioral data analysis
-* Student well-being analytics
-
-[**Explore Repository →**](https://github.com/Krishyangi-bit/MindSpace)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### 🐛 BugSift
-
-**Developer-Focused Project**
-
-A project in my engineering portfolio focused on bug-related problem-solving and developer workflows.
-
-Explore the repository to see the implementation, tools, and technical decisions behind it.
-
-[**Explore Repository →**](https://github.com/Krishyangi-bit/BugSift)
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Technology Stack
-
-The tools I use to build, experiment, and bring ideas to life.
-
-### 💻 Languages & Web Fundamentals
+### 💻 Languages
 
 <p>
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00BFFF" alt="Python"/>
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=8B5CF6" alt="SQL"/>
-<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3"/>
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
 ### 🌐 Frontend & Design
 
 <p>
-<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00BFFF" alt="React"/>
-<img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=8B5CF6" alt="Figma"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
 </p>
 
-### ⚙️ Backend, Data & Tools
+### ⚙️ Backend & Data
 
 <p>
-<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js"/>
-<img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=00BFFF" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=8B5CF6" alt="Pandas"/>
-<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
-<img src="https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Vercel"/>
-<img src="https://img.shields.io/badge/PowerShell-0D1117?style=for-the-badge&logo=powershell&logoColor=00BFFF" alt="PowerShell"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell"/>
 </p>
 
 ### 📚 Currently Learning
 
 <p>
-<img src="https://img.shields.io/badge/Java-Learning-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java — currently learning"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
 </p>
 
 ---
 
-## 📊 GitHub at a Glance
+## 🚀 Featured Projects
+
+### ♿ NAVRAAH
+#### *Technology with a purpose. Independence through innovation.*
+
+**Navigation Assistant For Visually Restricted And Aided Humans**
+
+An assistive-navigation project exploring how computer vision and intelligent environmental awareness can support people with visual impairments.
+
+**Tech Stack & Concepts**
+
+<p>
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python"/>
+<img src="https://img.shields.io/badge/YOLOv8-111F68?style=flat-square" alt="YOLOv8"/>
+<img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" alt="ONNX"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/Computer_Vision-8B5CF6?style=flat-square" alt="Computer Vision"/>
+<img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"/>
+<img src="https://img.shields.io/badge/Hardware-30363D?style=flat-square" alt="Hardware"/>
+</p>
+
+**Focus Areas**
+- 👁️ Computer vision and object detection
+- 🧠 Exploring intelligent environmental awareness
+- ♿ Assistive technology and accessibility
+- 🔧 Hardware-software integration
+
+<a href="https://github.com/Krishyangi-bit/N.A.V.R.A.A.H">
+  <img src="https://img.shields.io/badge/Explore_Repository-00BFFF?style=for-the-badge&logo=github&logoColor=white" alt="Explore NAVRAAH"/>
+</a>
+
+---
+
+### 🧠 MindSpace
+#### *Understanding student well-being through data and intelligence.*
+
+**An Intelligent Multi-Modal Framework for Predicting Student Burnout**
+
+A student-focused analytics application exploring burnout prediction through temporal chat sentiment, behavioral patterns, and data-driven analysis.
+
+**Tech Stack**
+
+<p>
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/NLP-8B5CF6?style=flat-square" alt="Natural Language Processing"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/Jinja2-B41717?style=flat-square" alt="Jinja2"/>
+</p>
+
+**Focus Areas**
+- 📊 Student burnout analytics
+- 💬 Sentiment analysis and behavioral patterns
+- 🤖 Predictive modeling
+- 📈 Data visualization and analytical insights
+
+<a href="https://github.com/Krishyangi-bit/MindSpace">
+  <img src="https://img.shields.io/badge/Explore_Repository-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore MindSpace"/>
+</a>
+
+---
+
+### 🐛 BugSift
+#### *Less time chasing bugs. More time building better software.*
+
+A developer-focused project in my portfolio. Explore the repository to discover its functionality, implementation, and technical approach.
+
+**Tech Stack**
+
+<!-- Replace these example badges with the technologies confirmed in BugSift's README. -->
+
+<p>
+<img src="https://img.shields.io/badge/Tech_Stack-Add_Confirmed_Technologies-30363D?style=flat-square" alt="Tech stack to be confirmed"/>
+</p>
+
+<a href="https://github.com/Krishyangi-bit/BugSift">
+  <img src="https://img.shields.io/badge/Explore_Repository-00BFFF?style=for-the-badge&logo=github&logoColor=white" alt="Explore BugSift"/>
+</a>
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -154,9 +186,9 @@ The tools I use to build, experiment, and bring ideas to life.
 
 ## 🌱 What I'm Working Toward
 
-I want to become the kind of engineer who can move comfortably from understanding a problem to designing, building, testing, and improving a solution.
+I'm focused on strengthening my engineering fundamentals, exploring intelligent systems, and building projects that solve practical problems.
 
-That means continuing to strengthen my fundamentals, learning to make better technical decisions, building projects with real users in mind, and contributing to meaningful engineering work.
+I want to keep improving how I approach software: understanding the problem, choosing the right tools, writing maintainable code, and learning from every iteration.
 
 **Less building for the sake of building. More building with purpose.**
 
@@ -164,17 +196,19 @@ That means continuing to strengthen my fundamentals, learning to make better tec
 
 ## 🤝 Let's Connect
 
-Have an interesting project, an engineering challenge, or an idea worth exploring? I'd love to connect.
+I'm always interested in discussing software, AI, creative engineering, and ideas that deserve to become real projects.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0D1117?style=for-the-badge\&logo=linkedin\&logoColor=00BFFF)](https://www.linkedin.com/in/krishyangi-dixit-9527ba388/)
+<a href="https://www.linkedin.com/in/krishyangi-dixit-9527ba388/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:dixitkrishyangi@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-[![Email](https://img.shields.io/badge/Drop_Me_an_Email-0D1117?style=for-the-badge\&logo=gmail\&logoColor=8B5CF6)](mailto:dixitkrishyangi@gmail.com)
-
-<br>
+<br><br>
 
 *Building things that think. Designing things that click. Making ideas work.*
 
 </div>
-
