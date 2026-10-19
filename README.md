@@ -25,9 +25,9 @@
   <tr>
     <td width="50%" height='200' valign="top">
       <h4>🔭 Building</h4>
-      <b>NAVRAAH</b>, a wearable assistive-navigation prototype<br/>
-      <b>MindSpace</b>, student burnout prediction<br/>
-      <b>BugSift</b>, less time chasing bugs
+      <b>NAVRAAH</b>: a wearable assistive-navigation prototype<br/>
+      <b>MindSpace</b>: student burnout prediction<br/>
+      <b>BugSift</b>: less time chasing bugs
     </td>
     <td width="50%" height='200' valign="top">
       <h4>🌱 Learning</h4>
@@ -35,18 +35,18 @@
     </td>
   </tr>
   <tr>
-    <td height = '50' valign="top">
+    <td height = '70' valign="top">
       <h4>🤝 Looking for</h4>
       Internships, collaborations, and interesting problems worth losing sleep over
     </td>
-    <td height = '50' valign="top">
+    <td height = '70' valign="top">
       <h4>💬 Ask me about</h4>
       ANYTHING 
     </td>
   </tr>
 </table>
 
-<p align="center"><sub>⚡ Fun fact: my first hardware build taught me that one missing voltage divider can fry a Raspberry Pi. Now it's the first thing I check.</sub></p>
+<p style = 'height:100px;' align="center"><sub>⚡ Fun fact: my first hardware build taught me that one missing voltage divider can fry a Raspberry Pi. Now it's the first thing I check.</sub></p>
 
 <details>
 <summary><b>🔁 How I build things (click to expand)</b></summary>
