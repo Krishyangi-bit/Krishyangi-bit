@@ -35,13 +35,13 @@
     </td>
   </tr>
   <tr>
-    <td valign="top">
+    <td height = '50' valign="top">
       <h4>🤝 Looking for</h4>
       Internships, collaborations, and interesting problems worth losing sleep over
     </td>
-    <td valign="top">
+    <td height = '50' valign="top">
       <h4>💬 Ask me about</h4>
-      Computer vision, NLP, and learning hardware from scratch
+      ANYTHING 
     </td>
   </tr>
 </table>
