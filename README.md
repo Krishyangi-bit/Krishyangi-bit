@@ -34,42 +34,12 @@ I'm a B.Tech Computer Science student who enjoys turning ideas into working soft
 
 I don't just want to make things that work. I want to understand why they work—and how to make them better.
 
-⚙️ Tech Stack
 
-Languages & Web Fundamentals
+  
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-</p>
 
-Frontend & Design
 
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-</p>
-
-Backend, Data & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
-</p>
-
-Currently Learning
-
-<p>
-  <img src="https://img.shields.io/badge/Java-Learning-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java — learning" />
-</p>
+</details> <br/> <h2 align="center">Tech Stack</h2> <table align="center"> <tr> <td align="right"><b>Languages</b></td> <td><img src="https://skillicons.dev/icons?i=python,js,java,mysql,html,css&theme=dark" alt="Python, JavaScript, Java (learning), SQL, HTML5, CSS3" /></td> </tr> <tr> <td align="right"><b>Frameworks</b></td> <td><img src="https://skillicons.dev/icons?i=react,nodejs,flask&theme=dark" alt="React, Node.js, Flask" /></td> </tr> <tr> <td align="right"><b>Data &amp; Vision</b></td> <td><img src="https://skillicons.dev/icons?i=numpy,pandas,opencv&theme=dark" alt="NumPy, Pandas, OpenCV" /></td> </tr> <tr> <td align="right"><b>Tools</b></td> <td><img src="https://skillicons.dev/icons?i=git,github,vercel,figma,powershell,raspberrypi&theme=dark" alt="Git, GitHub, Vercel, Figma, PowerShell, Raspberry Pi" /></td> </tr> </table> <p align="center"><sub>Currently learning Java ☕</sub></p>
 
 🚀 Featured Projects
 
