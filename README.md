@@ -12,7 +12,6 @@
 <br/><br/>
 <img src="./assets/shinchan-ascii.gif" width="520" alt="Terminal animation: krishyangi@github runs shinchan.exe and an ASCII-art Shinchan types itself out." />
 </div>
----
 <h2 align="center">Right Now</h2>
 <table width="100%">
   <tr>
