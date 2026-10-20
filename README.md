@@ -39,22 +39,6 @@
   </tr>
 </table>
 <p align="center">⚡ Fun fact: my first hardware build taught me that one missing voltage divider can fry a Raspberry Pi. Now it's the first thing I check.</p>
-<details>
-<summary><b>🔁 How I build things (click to expand)</b></summary>
-<br/>
-```mermaid
-flowchart LR
-  A([💡 What if?]) --> B[🧪 Prototype]
-  B --> C[💥 Break it]
-  C --> D[🔍 Debug]
-  D --> E[🚀 Ship]
-  E --> F[📝 Document]
-  F --> A
-  style A fill:#7C5CFF,stroke:#FFB547,color:#fff
-  style C fill:#E5484D,stroke:#FFB547,color:#fff
-  style E fill:#0F9D78,stroke:#FFB547,color:#fff
-```
-</details>
 ---
 <h2 align="center">Tech Stack</h2>
 <p align="center">
